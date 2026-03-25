@@ -1,24 +1,21 @@
 # webrtc-test
-日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-This is a simple WebRTC-based video chat application built using the SkyWay JavaScript SDK.
+A Web/Code project by [Code for FUKUI](https://github.com/code4fukui).
 
-## Demo
-The application can be tried out at the [SkyWay Tutorial page](https://webrtc.ecl.ntt.com/en/js-tutorial.html).
+**Live demo**: https://code4fukui.github.io/webrtc-test/
 
-## Features
-- Real-time video and audio communication between peers
-- Ability to select audio and video input devices
-- Straightforward user interface
+## Technology Stack
 
-## Requirements
-- A modern web browser that supports WebRTC
 
-## Usage
-1. Open the `index.html` file in a web browser.
-2. Grant the browser permission to access your camera and microphone.
-3. Share your user ID with others to allow them to call you.
-4. Enter the user ID of the person you want to call, then click the "Call" button.
+## Installation & Setup
+
+No build step required. Clone the repository and open `index.html` in a browser,
+or visit the live demo at https://code4fukui.github.io/webrtc-test/
+
+## Contributing
+
+Contributions are welcome. Please open an issue or pull request on GitHub.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+
+MIT License. See [LICENSE](./LICENSE) for details.
